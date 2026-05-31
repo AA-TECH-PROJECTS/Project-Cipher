@@ -40,5 +40,5 @@ Project-Cipher operates as a reverse proxy or middleware layer. It intercepts in
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/AA-TECH-PROJECTS/](https://github.com/AA-TECH-PROJECTS/)Project-Cipher.git
+   git clone https://github.com/AA-TECH-PROJECTS/Project-Cipher.git
    cd Project-Cipher

@@ -33,8 +33,8 @@ Project-Cipher operates as a reverse proxy or middleware layer. It intercepts in
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
-*   [Language/Framework, e.g., Python 3.9+ or Node.js 18+]
-*   [Any specific database or caching layer, e.g., Redis for rate limiting]
+*   Python 3.9+
+*   Redis (for distributed rate limiting and session tracking)
 
 ### Quick Start
 
